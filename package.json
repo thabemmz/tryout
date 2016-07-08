@@ -1,0 +1,22 @@
+{
+  "name": "tryout",
+  "version": "1.0.0",
+  "description": "Repos for trying out stuff that I'd like to remember",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thabemmz/tryout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thabemmz/tryout/issues"
+  },
+  "homepage": "https://github.com/thabemmz/tryout#readme",
+  "devDependencies": {
+    "eslint-config-mm": "^1.1.1"
+  }
+}
