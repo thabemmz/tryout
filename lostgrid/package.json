@@ -1,0 +1,20 @@
+{
+  "name": "tryout-lostgrid",
+  "version": "1.0.0",
+  "description": "Tryout of the lostgrid CSS Framework",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "lost": "^7.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christiaan van Bemmel",
+  "license": "ISC"
+}
